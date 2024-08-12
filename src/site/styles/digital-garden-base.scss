@@ -18,15 +18,15 @@ img {
 }
 
 .content {
-    max-width: calc(100vw - 50px);
-    margin: 90px auto auto 300px;
+    max-width: 700px;
+    margin: auto;
     font-size: 18px;
     line-height: 1.5;
     position: relative;
-
+    margin-top: 90px;
+	
     @media (max-width: 800px) {
-    	max-width: calc(100vw - 50px);
-    	margin: 75px auto auto;
+      	margin-top: 75px;
     }
 }
 
