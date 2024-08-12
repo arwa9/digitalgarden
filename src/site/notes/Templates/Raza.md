@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/templates/raza/"}
 ---
 
-
-
 {{ imagen }}
 
 ## Atributos
