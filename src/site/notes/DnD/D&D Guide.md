@@ -14,3 +14,7 @@
 - [[DnD/Heliana/Razas/Cnidaran\|Cnidaran]]
 - [[DnD/Heliana/Razas/Ciclópeo\|Ciclópeo]]
 - [[DnD/Heliana/Razas/Gobboc\|Gobboc]]
+- [[DnD/Heliana/Razas/Golynn\|Golynn]]
+- [[DnD/Heliana/Razas/Lotol\|Lotol]]
+- [[DnD/Heliana/Razas/Micélido\|Micélido]]
+- 
