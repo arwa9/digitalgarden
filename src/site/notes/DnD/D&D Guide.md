@@ -12,3 +12,5 @@
 
 ### Heliana
 - [[DnD/Heliana/Razas/Cnidaran\|Cnidaran]]
+- [[DnD/Heliana/Razas/Ciclópeo\|Ciclópeo]]
+- [[DnD/Heliana/Razas/Gobboc\|Gobboc]]
