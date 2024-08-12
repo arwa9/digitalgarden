@@ -15,7 +15,7 @@
 - Competente con herramientas de artesano
 - Competente en tiradas de Historia relacionadas con trabajos de piedra
 
-# Subrazas
+# Sub-razas
 ## Enano de las Colinas
 - **+1 INT**
 - +1 HP por nivel
