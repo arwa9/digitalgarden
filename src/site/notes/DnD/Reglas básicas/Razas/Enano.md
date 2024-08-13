@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/dn-d/reglas-basicas/razas/enano/"}
 ---
 
-> [!example|float-right-medium]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240812204624.png](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240812204624.png)
+> [!example|float-right]
+> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240812204624.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240812204624.png)
 
 ## Atributos
 **+2 CONS**
