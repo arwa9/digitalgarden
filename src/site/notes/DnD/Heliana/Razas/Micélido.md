@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas/micelido/"}
 ---
 
-![DnD/Heliana/Razas/attachments/Pasted image 20240812215235.png|400](/img/user/DnD/Heliana/Razas/attachments/Pasted%20image%2020240812215235.png)
-> Sistema de hongos que reanima un cadáver -> Elegir la raza original del huésped
+>[!example|float-right]
+![DnD/Heliana/Razas/attachments/IMG_Micelido.png|400](/img/user/DnD/Heliana/Razas/attachments/IMG_Micelido.png)
+
+> [!important]
+> 
+Sistema de hongos que reanima un cadáver -> Elegir la raza original del huésped
 
 ## Atributos
 **+2 CONS +1 A elegir** (según la elección del cuerpo original)
@@ -23,3 +27,6 @@
 También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tuviese la raza huésped.
 
 ## Clases recomendadas
+- Paladín
+- Guerrero
+- Bárbaro

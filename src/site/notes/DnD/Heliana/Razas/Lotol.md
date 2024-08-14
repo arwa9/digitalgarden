@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas/lotol/"}
 ---
 
-![DnD/Heliana/Razas/attachments/Pasted image 20240812214541.png|400](/img/user/DnD/Heliana/Razas/attachments/Pasted%20image%2020240812214541.png)
+>[!example|float-right]
+![DnD/Heliana/Razas/attachments/IMG_Lotol.png|400](/img/user/DnD/Heliana/Razas/attachments/IMG_Lotol.png)
 
 ## Atributos
 **+2 SAB +1 CONS**

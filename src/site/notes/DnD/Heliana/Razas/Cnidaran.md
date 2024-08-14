@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas/cnidaran/"}
 ---
 
-![DnD/Heliana/Razas/attachments/Pasted image 20240812211159.png|400](/img/user/DnD/Heliana/Razas/attachments/Pasted%20image%2020240812211159.png)
+>[!example|float-right]
+![DnD/Heliana/Razas/attachments/IMG_Cnidaran.png|400](/img/user/DnD/Heliana/Razas/attachments/IMG_Cnidaran.png)
 
 ## Atributos
 **+1 CONS**

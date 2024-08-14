@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas/golynn/"}
 ---
 
-![DnD/Heliana/Razas/attachments/Pasted image 20240812214017.png|400](/img/user/DnD/Heliana/Razas/attachments/Pasted%20image%2020240812214017.png)
+>[!example|float-right]
+![DnD/Heliana/Razas/attachments/IMG_Golynn.png|400](/img/user/DnD/Heliana/Razas/attachments/IMG_Golynn.png)
 
 ## Atributos
 **+2 CONS +1 FUE**

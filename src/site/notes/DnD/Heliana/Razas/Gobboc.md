@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas/gobboc/"}
 ---
 
-![DnD/Heliana/Razas/attachments/Pasted image 20240812213103.png|400](/img/user/DnD/Heliana/Razas/attachments/Pasted%20image%2020240812213103.png)
+>[!example|float-right]
+![DnD/Heliana/Razas/attachments/IMG_Gobboc.png|400](/img/user/DnD/Heliana/Razas/attachments/IMG_Gobboc.png)
 
 ## Atributos
 **+2 DES +1 CAR / SAB**

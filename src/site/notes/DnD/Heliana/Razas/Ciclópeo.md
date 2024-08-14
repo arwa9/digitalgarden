@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas/ciclopeo/"}
 ---
 
-![DnD/Heliana/Razas/attachments/Pasted image 20240812212546.png|400](/img/user/DnD/Heliana/Razas/attachments/Pasted%20image%2020240812212546.png)
+>[!example|float-right]
+![DnD/Heliana/Razas/attachments/IMG_Ciclopeo.png|400](/img/user/DnD/Heliana/Razas/attachments/IMG_Ciclopeo.png)
 
 ## Atributos
 **+2 INT +1 DES/SAB**

@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/templates/raza/"}
 ---
 
-{{ imagen }}
-
+>[!example|float-right]
+>{{imagen aquí}} 
 ## Atributos
 
 
