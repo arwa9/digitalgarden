@@ -853,8 +853,8 @@ body {
 
 /* make the list grid, remove some ul padding */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     [class*='mcllist-card']
   )
   ul:first-child {
@@ -866,7 +866,7 @@ body {
   margin-block-start: 0.5em;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card-wide'])),
+    div:has(ul:has(a[data-content*='#mcl/list-card-wide'])),
     [class*='mcllist-card-wide']
   )
   ul:first-child {
@@ -877,8 +877,8 @@ body {
 }
 /* unindent first level bullet */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul
@@ -886,8 +886,8 @@ body {
   padding-left: 0.1em;
 } /* with v1.6 this is somewhat redundant */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul
@@ -896,13 +896,13 @@ body {
   margin-inline-start: 0;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul {
+  ul {
   padding-left: 0;
 }
 :is(.is-mobile .markdown-preview-section)
@@ -912,60 +912,60 @@ body {
 }
 /* reposition the collapse indicator and hover behaviour */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul
+  ul
   > li {
   position: relative;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul
+  ul
   > li:hover
   > .collapse-indicator,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul
+  ul
   > li
-  > ul
+  ul
   > li:hover
   > .collapse-indicator {
   opacity: 1;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul
+  ul
   > li
   > .collapse-indicator,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul
+  ul
   > li
-  > ul
+  ul
   > li
   > .collapse-indicator {
   position: absolute;
@@ -973,8 +973,8 @@ body {
   padding-right: 0;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul::before {
@@ -982,12 +982,12 @@ body {
 }
 /* decorate the first heading for cards */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])) .callout-content,
     .tag-mcllist-card,
     .tag-mcllist-card .callout-content
   )
-  > ul
+  ul
   > li:not(.is-collapsed)
   > [data-heading] {
   border-bottom: var(--mcl-card-header-border-width) solid
@@ -996,94 +996,94 @@ body {
 }
 /* hide the list bullet for list-card for first and second level */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   > div
   > div
-  > ul
+  ul
   > li
   > .list-bullet::after,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   > div
   > div
-  > ul
+  ul
   > li
-  > ul
+  ul
   > li
   > .list-bullet::after,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
-  > ul
+  ul
   > li::before,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
-  > ul
+  ul
   > li
-  > ul
+  ul
   > li::before,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
-  > ul
+  ul
   > li
   > .list-bullet::after,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
-  > ul
+  ul
   > li
-  > ul
+  ul
   > li
   > .list-bullet::after {
   visibility: hidden;
 }
 /* remove the indentation guide */
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul:not(ul ul ul ul)::before {
   --indentation-guide-width: 0;
 }
 .markdown-rendered.show-indentation-guide
-  :is(div:has(> ul:has(a[data-content*='#mcl/list-card'])), .tag-mcllist-card)
+  :is(div:has(ul:has(a[data-content*='#mcl/list-card'])), .tag-mcllist-card)
   li
-  > ul::before,
+  ul::before,
 .markdown-rendered.show-indentation-guide
-  :is(div:has(> ul:has(a[data-content*='#mcl/list-card'])), .tag-mcllist-card)
+  :is(div:has(ul:has(a[data-content*='#mcl/list-card'])), .tag-mcllist-card)
   li
   > ol::before {
   border-right: 0;
   border-left: 0;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   li {
   list-style: none;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   li
@@ -1092,16 +1092,16 @@ body {
   list-style: circle;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   .callout
   ul:not(ul ul)
   > li,
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul:not(ul ul)
@@ -1114,8 +1114,8 @@ body {
   background-color: var(--mcl-card-bg-color);
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul:not(ul ul)
@@ -1124,8 +1124,8 @@ body {
   width: 100%;
 }
 :is(
-    div:has(> ul:has(a[data-content*='#mcl/list-card'])),
-    div:has(> ul [href*='#mcl/list-card']),
+    div:has(ul:has(a[data-content*='#mcl/list-card'])),
+    div:has(ul [href*='#mcl/list-card']),
     .tag-mcllist-card
   )
   ul
