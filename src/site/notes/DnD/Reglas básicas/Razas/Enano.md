@@ -3,7 +3,7 @@
 ---
 
 > [!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240812204624.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240812204624.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205407.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205407.png)
 
 ## Atributos
 **+2 CONS**

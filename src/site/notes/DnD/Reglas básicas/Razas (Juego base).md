@@ -15,7 +15,7 @@
 
 
 > [!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240812204624.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240812204624.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205407.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205407.png)
 
 ## Atributos
 **+2 CONS**
@@ -62,7 +62,7 @@
 
 
 >[!example|float-right]
->![DnD/Reglas básicas/Razas/attachments/Pasted image 20240821221458.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240821221458.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205253.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205253.png)
 ## Atributos
 **+2 DES**
 
@@ -118,7 +118,7 @@
 
 
 >[!example|float-right]
->![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822195454.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822195454.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205733.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205733.png)
 ## Atributos
 **+2 DES**
 
@@ -162,7 +162,7 @@
 
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822200228.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822200228.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205607.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205607.png)
 ## Atributos
 **+1 A TODO**
 
@@ -191,7 +191,7 @@ Todas
 
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822200303.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822200303.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205146.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205146.png)
 ## Atributos
 **+2 FUE +1 CAR**
 
@@ -222,7 +222,7 @@ Todas
 
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822201504.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822201504.png)
+> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205523.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205523.png)
 ## Atributos
 **+2 INT**
 
@@ -261,7 +261,7 @@ Todas
 
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822201545.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822201545.png)
+> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205331.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205331.png)
 ## Atributos
 **+2 CAR +1 en 2 atributos a elegir**
 
@@ -293,7 +293,7 @@ Todas
 
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822202601.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822202601.png)
+>![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205844.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205844.png)
 ## Atributos
 **+2 FUE +1 CONS**
 
@@ -325,7 +325,7 @@ Todas
 
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822202636.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822202636.png)
+> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822210013.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822210013.png)
 ## Atributos
 **+2 CAR +1 INT**
 

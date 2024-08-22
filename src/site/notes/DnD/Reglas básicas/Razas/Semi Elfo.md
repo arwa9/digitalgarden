@@ -3,7 +3,7 @@
 ---
 
 >[!example|float-right]
-> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822201545.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822201545.png)
+> ![DnD/Reglas básicas/Razas/attachments/Pasted image 20240822205331.png|400](/img/user/DnD/Reglas%20b%C3%A1sicas/Razas/attachments/Pasted%20image%2020240822205331.png)
 ## Atributos
 **+2 CAR +1 en 2 atributos a elegir**
 
