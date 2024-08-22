@@ -16,8 +16,8 @@
 ## Resumen de habilidades
 - Visión en la oscuridad.
 - Resistencia a ser cegado y al daño radiante.
-- Competente en Sigilo.
-- A Nv.5 aprendes el conjuro de Invisibilidad.
+- Competente (+2) en Sigilo.
+- A Nv.5 aprende el conjuro de Invisibilidad.
 - **Ladrón de voces:** ha perdido su voz original, así que su única manera de hablar es robar las voces de aquellos que mueren cerca. Puede robar una voz 1 vez al día y mantener una serie de voces.
 
 ## Clases recomendadas

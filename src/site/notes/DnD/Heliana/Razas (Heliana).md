@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/dn-d/heliana/razas-heliana/"}
 ---
 
-### Cnidaria
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/cnidaria/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -53,7 +52,7 @@
 
 
 ----
-### Ciclópeo
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/ciclopeo/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -85,7 +84,7 @@
 
 
 ----
-### Gobboc
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/gobboc/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -122,7 +121,7 @@
 
 
 ----
-### Golynn
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/golynn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -156,7 +155,7 @@
 
 
 ----
-### Lotol
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/lotol/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -177,7 +176,7 @@
 ## Resumen de habilidades
 - Ventaja en las tiradas de salvación de Sabiduría
 - **Piel viscosa:** ventaja en tiradas de salvación cuando le intentan agarrar o apresar.
-- **Adaptaciones:** (elige 2)
+- **Adaptaciones:** (elegir 2)
 	- Nada a la misma velocidad que se mueve y respira bajo el agua.
 	- Velocidad de trepar de 20 pies + ventaja en tiradas para agarrar objetos (cuando intentan desarmarlo) o superficies.
 	- Visión en la oscuridad.
@@ -192,7 +191,7 @@
 
 
 ----
-### Micélido
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/micelido/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -216,11 +215,11 @@ Sistema de hongos que reanima un cadáver -> Elegir la raza original del huéspe
 
 ## Resumen de habilidades
 - **Espray de esporas:** como reacción a un ataque cuerpo a cuerpo, puede liberar esporas que envenenan al enemigo (1D8, salvación de CONS).
-- Si mueres cerca de un cuerpo humanoide que haya muerto hace menos de 24h, puedes intentar inhabitar ese cuerpo para salvarte.
+- Si muere cerca de un cuerpo humanoide que haya muerto hace menos de 24h, puede intentar inhabitar ese cuerpo para salvarse.
 - **Asimilación simbiótica:** elige 2 habilidades según la raza del huésped.
 	- Enano: resistencia al veneno
 	- Mediano: puede moverse a través del espacio de criaturas más grandes.
-	- Semi-orco: cuando es reducido a 0 HP, en vez se queda en 1 HP (una vez al día).
+	- Semi-orco: cuando es reducido a 0 HP, resiste y se queda a 1 HP (una vez al día).
 	- Resistencia al daño que tenga la raza huésped.
 	- Visión en la oscuridad (sólo si el huésped la tuviera)
 	- Arma natural: ataque sin armas con un cuerno, garra, etc. (característica física del huésped)
@@ -237,7 +236,7 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 
 
 ----
-### Ombrask
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/ombrask/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -263,8 +262,8 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 ## Resumen de habilidades
 - Visión en la oscuridad.
 - Resistencia a ser cegado y al daño radiante.
-- Competente en Sigilo.
-- A Nv.5 aprendes el conjuro de Invisibilidad.
+- Competente (+2) en Sigilo.
+- A Nv.5 aprende el conjuro de Invisibilidad.
 - **Ladrón de voces:** ha perdido su voz original, así que su única manera de hablar es robar las voces de aquellos que mueren cerca. Puede robar una voz 1 vez al día y mantener una serie de voces.
 
 ## Clases recomendadas
@@ -276,7 +275,7 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 
 
 ----
-### Limáxido (Oozekin)
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/limaxido-oozekin/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -310,7 +309,7 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 
 
 ----
-### Optérido
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/opterido/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -349,7 +348,7 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 
 
 ----
-### Rakin
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dn-d/heliana/razas/rakin/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -378,7 +377,7 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 ## Subrazas
 ### Urkin
 - **+1 INT / CAR**
-- Competente en sigilo o "Sleight of hand".
+- Competente (+2) en sigilo o "Mano de mago".
 - Puede hacer una tirada de salvación de DES con ventaja usando la reacción de su turno para moverse sin activar ataques de oportunidad (1 vez al día).
 ### Posskin
 - **+1 CONS**
@@ -387,11 +386,11 @@ También puedes elegir si el DM está de acuerdo cualquier otra habilidad que tu
 - Puede hacerse el muerto durante 1h al ser reducido a menos de la mitad de sus HP. Sufre el estado "derribado" y ningún enemigo que no haga una prueba de Investigación o Engaño no se dará cuenta.
 ### Tanukin
 - **+1 SAB / CAR**
-- Competente en Engaño o Persuasión.
+- Competente (+2) en Engaño o Persuasión.
 - Puede comunicarse con ciertas bestias (pero no entenderlas).
 - Conoce el truco "Ilusión menor", que puede usar 1 vez al día (o gastando 1 espacio de conjuro) para:
-	- Nv.3: "Disguise self"
-	- Nv. 5: "Alter self"
+	- Nv.3: "Disfrazarse" (altera su apariencia)
+	- Nv. 5: "Alterar el propio aspecto" (asume una forma totalmente diferente)
 
 ## Clases recomendadas
 - Explorador (todos)

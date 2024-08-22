@@ -9,10 +9,10 @@
 
 ## Resumen de habilidades
 - Visión en la oscuridad
-- Competente en Percepción
-- Ventaja en las tiradas de Salvación para ser hechizado y la magia no pueden dormirle.
+- Competente (+2) en Percepción
+- Ventaja en las tiradas de Salvación para ser hechizado y la magia no puede dormirle.
 - No duermen, entran en "trance" durante 4h (equivalente a un descanso largo).
-- Competente con espadas y arcos.
+- Competente (+2) con espadas y arcos.
 
 ## Sub-razas
 ### Alto elfo
@@ -26,9 +26,9 @@
 - **+1 CAR**
 - Visión en la oscuridad con el doble de alcance.
 - Desventaja en tiradas de ataque y Percepción bajo la luz directa del sol.
-- Aprende el truco "Luces danzantes", que puede usar:
-	- A Nv.3 para lanzar "Fuego feérico".
-	- A Nv.5 para lanzar "Oscuridad".
+- Aprende el truco "Luces danzantes", que puede usar 1 vez al día para:
+	- A Nv.3 para lanzar "Fuego feérico" (ilumina el contorno de una criatura y todos los ataques contra ella tienen ventaja).
+	- A Nv.5 para lanzar "Oscuridad" (crea una esfera de oscuridad total)
 
 ## Clases recomendadas
 - Todos

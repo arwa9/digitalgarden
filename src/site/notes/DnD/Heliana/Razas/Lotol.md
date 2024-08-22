@@ -11,7 +11,7 @@
 ## Resumen de habilidades
 - Ventaja en las tiradas de salvación de Sabiduría
 - **Piel viscosa:** ventaja en tiradas de salvación cuando le intentan agarrar o apresar.
-- **Adaptaciones:** (elige 2)
+- **Adaptaciones:** (elegir 2)
 	- Nada a la misma velocidad que se mueve y respira bajo el agua.
 	- Velocidad de trepar de 20 pies + ventaja en tiradas para agarrar objetos (cuando intentan desarmarlo) o superficies.
 	- Visión en la oscuridad.

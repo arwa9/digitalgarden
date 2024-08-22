@@ -19,7 +19,7 @@
 ## Subrazas
 ### Urkin
 - **+1 INT / CAR**
-- Competente en sigilo o "Sleight of hand".
+- Competente (+2) en sigilo o "Mano de mago".
 - Puede hacer una tirada de salvación de DES con ventaja usando la reacción de su turno para moverse sin activar ataques de oportunidad (1 vez al día).
 ### Posskin
 - **+1 CONS**
@@ -28,11 +28,11 @@
 - Puede hacerse el muerto durante 1h al ser reducido a menos de la mitad de sus HP. Sufre el estado "derribado" y ningún enemigo que no haga una prueba de Investigación o Engaño no se dará cuenta.
 ### Tanukin
 - **+1 SAB / CAR**
-- Competente en Engaño o Persuasión.
+- Competente (+2) en Engaño o Persuasión.
 - Puede comunicarse con ciertas bestias (pero no entenderlas).
 - Conoce el truco "Ilusión menor", que puede usar 1 vez al día (o gastando 1 espacio de conjuro) para:
-	- Nv.3: "Disguise self"
-	- Nv. 5: "Alter self"
+	- Nv.3: "Disfrazarse" (altera su apariencia)
+	- Nv. 5: "Alterar el propio aspecto" (asume una forma totalmente diferente)
 
 ## Clases recomendadas
 - Explorador (todos)

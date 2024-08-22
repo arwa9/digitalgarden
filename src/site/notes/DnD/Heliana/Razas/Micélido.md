@@ -14,11 +14,11 @@ Sistema de hongos que reanima un cadáver -> Elegir la raza original del huéspe
 
 ## Resumen de habilidades
 - **Espray de esporas:** como reacción a un ataque cuerpo a cuerpo, puede liberar esporas que envenenan al enemigo (1D8, salvación de CONS).
-- Si mueres cerca de un cuerpo humanoide que haya muerto hace menos de 24h, puedes intentar inhabitar ese cuerpo para salvarte.
+- Si muere cerca de un cuerpo humanoide que haya muerto hace menos de 24h, puede intentar inhabitar ese cuerpo para salvarse.
 - **Asimilación simbiótica:** elige 2 habilidades según la raza del huésped.
 	- Enano: resistencia al veneno
 	- Mediano: puede moverse a través del espacio de criaturas más grandes.
-	- Semi-orco: cuando es reducido a 0 HP, en vez se queda en 1 HP (una vez al día).
+	- Semi-orco: cuando es reducido a 0 HP, resiste y se queda a 1 HP (una vez al día).
 	- Resistencia al daño que tenga la raza huésped.
 	- Visión en la oscuridad (sólo si el huésped la tuviera)
 	- Arma natural: ataque sin armas con un cuerno, garra, etc. (característica física del huésped)

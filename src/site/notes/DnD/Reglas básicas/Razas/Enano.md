@@ -11,9 +11,9 @@
 ## Resumen de habilidades
 - Visión en la oscuridad
 - Resistencia al veneno
-- Competente con hachas y martillos
-- Competente con herramientas de artesano
-- Competente en tiradas de Historia relacionadas con trabajos de piedra
+- Competente (+2) con hachas y martillos
+- Competente (+2) con herramientas de artesano
+- Competente (+2) en tiradas de Historia relacionadas con trabajos de piedra
 
 # Sub-razas
 ## Enano de las Colinas
@@ -21,7 +21,7 @@
 - +1 HP por nivel
 ## Enano de las Montañas
 - **+2 FUE**
-- Competente con armaduras ligeras y medias.
+- Competente (+2) con armaduras ligeras y medias.
 
 ## Clases recomendadas
 
